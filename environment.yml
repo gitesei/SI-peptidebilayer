@@ -1,0 +1,13 @@
+name: pepmem
+channels:
+- conda-forge
+- defaults
+dependencies:
+- mdtraj=1.9
+- pandas=0.22
+- ipython=6.2
+- jupyter=1.0
+- matplotlib=2.1
+- numpy=1.14
+- scipy=1.0
+- statsmodels=0.8
