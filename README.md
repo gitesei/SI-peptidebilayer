@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/teokem/SI-peptidebilayer/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gitesei/SI-peptidebilayer/master)
 
 # Coarse-grained Model of Titrating Peptides Interacting with Lipid Bilayers
 
