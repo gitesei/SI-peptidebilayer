@@ -2,7 +2,7 @@
 
 # Coarse-grained Model of Titrating Peptides Interacting with Lipid Bilayers
 
-This repository contains [Jupyter](http://jupyter.org) Notebooks and simulation data for reproducing the work of the scientific paper _Coarse-grained Model of Titrating Peptides Interacting with Lipid Bilayers_, [DOI]().
+This repository contains [Jupyter](http://jupyter.org) Notebooks and simulation data for reproducing the work of the scientific paper _Coarse-grained Model of Titrating Peptides Interacting with Lipid Bilayers_, [DOI:10.1063/1.5058234](https://doi.org/10.1063/1.5058234).
 
 ### Layout
 
